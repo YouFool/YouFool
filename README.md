@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 <div style="text-align: center">
-    <img width="800" alt="Header" src="./assets/header.gif">
+    <img width="800" alt="Header" src="https://github.com/YouFool/YouFool/raw/master/assets/header.gif">
 </div>
 <br>
 
