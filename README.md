@@ -5,11 +5,11 @@
 </div>
 <br>
 
-I'm João Heckmann, a curious self-taught Web Developer from 🇧🇷 Brazil.
+I'm João Heckmann, a curious self-taught Software Engineer from 🇧🇷 Brazil.
 
-- 🔭 I’m currently working: on multiple projects at [@MoutsIT](https://github.com/MoutsIT)
-- 🌱 I’m currently learning: NestJS 🐯
-- 🔨 My preferred [tools](https://stackshare.io/YouFool/my-stack) are: Go, Java and JS  
+- 🔭 I’m currently working: Payments Risk @ Coinbase
+- 🌱 I’m currently learning: Ruby 🎢
+- 🔨 My preferred [tools](https://stackshare.io/YouFool/my-stack) are: Go & JavaScript  
 - 💬 Ask me about: anything, really
 - ⚡ Fun fact: I ♥ RTS ⚔ and FPS 🔫 games 
 
